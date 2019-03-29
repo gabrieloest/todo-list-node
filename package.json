@@ -1,0 +1,26 @@
+{
+  "name": "todo_list",
+  "version": "1.0.0",
+  "description": "To do list write in node.js and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrieloest/todo-list-node.git"
+  },
+  "author": "Gabriel Oest",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrieloest/todo-list-node/issues"
+  },
+  "homepage": "https://github.com/gabrieloest/todo-list-node#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-session": "^1.3.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "uuid": "^3.3.2"
+  }
+}
